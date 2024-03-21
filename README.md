@@ -29,6 +29,7 @@ I'm Omar Sayed, Welcome to my corner of the coding world!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsayeddev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarsayed.cpp@gmail.com)](mailto:omarsayed.cpp@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X)](https://twitter.com/OmarSayed_cs)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmarSayed_cs)
 
 # 💻 Tech Stack:
 
