@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Omar Sayed, also known as [@OmarSayed0](https://github.com/OmarSayed0) on GitHub. Welcome to my corner of the coding world!
+I'm Omar Sayed, Welcome to my corner of the coding world!
 
 ## About Me
 
@@ -28,7 +28,7 @@ I'm Omar Sayed, also known as [@OmarSayed0](https://github.com/OmarSayed0) on Gi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsayeddev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarsayed.cpp@gmail.com)](mailto:omarsayed.cpp@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([](https://twitter.com/OmarSayed_cs)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/OmarSayed_cs)
 
 # 💻 Tech Stack:
 
